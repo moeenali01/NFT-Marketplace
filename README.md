@@ -39,7 +39,7 @@ The **NFT Marketplace** smart contract allows users to mint, list, buy, sell, an
 
 -  **ICO Contract Address:** [`0x35BC90BfeaE9a36F803C50FF2Bf250E2635Fb053`](https://holesky.etherscan.io/address/0x35BC90BfeaE9a36F803C50FF2Bf250E2635Fb053#code) <!-- Add your deployed contract address -->
 - **Etherscan Verification:** ✅ Verified
-- **Explorer Link:** [View on Etherscan](https://holesky.etherscan.io/address/0x1efad149731a1360bcb677e61799eae9290f3af1#code) <!-- Add link to verified contract on Etherscan -->
+- **Explorer Link:** [View on Etherscan](https://holesky.etherscan.io/address/0x35BC90BfeaE9a36F803C50FF2Bf250E2635Fb053#code) <!-- Add link to verified contract on Etherscan -->
 
 ---
 
